@@ -44,4 +44,5 @@ A process is not malicious simply because it is PowerShell. SOC analysis require
 
 ## Screenshots
 
-Add screenshots showing Sysmon Event ID 1, the parent-child relationship, and process fields.
+<img width="1262" height="978" alt="image" src="https://github.com/user-attachments/assets/c2b54a62-6a6b-48d5-9dd2-680a2aa7d659" />
+
