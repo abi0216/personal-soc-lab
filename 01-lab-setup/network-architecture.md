@@ -80,11 +80,11 @@ Attacker Activity -> Endpoint Telemetry -> Log Collection -> SIEM Investigation
 
 ## Screenshots
 
-Add screenshots showing:
+<img width="1920" height="983" alt="image" src="https://github.com/user-attachments/assets/897624e9-6183-441a-8a49-658e3e569dd6" />
 
-- Kali Linux
-- Windows connectivity
-- Successful ping between lab machines
-- Overall lab architecture
+KALI TO WINDOWS CONNECTIVITY
 
-Do not put Wazuh alert details, Sysmon Event ID analysis, SPL queries, or incident reports here. Those belong in later folders.
+<img width="1438" height="292" alt="image" src="https://github.com/user-attachments/assets/6d35b1f4-6fd5-4f3e-b9d0-1538a448a9e4" />
+
+WINDOWS TO KALI CONNECTIVITY
+
