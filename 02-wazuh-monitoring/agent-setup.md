@@ -35,4 +35,6 @@ SOC analysts must understand the difference between raw events, detection rules,
 
 ## Screenshots
 
-Add Wazuh agent connected, agent details, and Windows telemetry visible in Wazuh. Do not put all Sysmon investigations here.
+<img width="1908" height="972" alt="image" src="https://github.com/user-attachments/assets/1c8ae535-99e6-44e4-a9f8-b809802afa4d" />
+
+Configuration of the agent or endpoint to monitor the activity
