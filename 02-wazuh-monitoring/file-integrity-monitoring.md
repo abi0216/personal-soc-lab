@@ -25,5 +25,11 @@ A security alert does not automatically mean an attack occurred. Registry and sy
 - Is the affected registry location security-sensitive?
 
 ## Screenshots
+<img width="1897" height="951" alt="image" src="https://github.com/user-attachments/assets/c21ded3f-d03d-4634-9fa9-a91cbd98593e" />
 
-Add Wazuh alert, registry event details, and MITRE ATT&CK mapping screenshots.
+Overview of the threat hunting
+
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/a3ca219e-d970-4fcc-ab62-988cd50cac0b" />
+
+Inspection of the particular process
+
