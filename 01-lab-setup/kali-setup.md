@@ -45,6 +45,4 @@ All activities will be performed only against authorized lab systems.
 
 ## Screenshots
 
-Add Kali Linux desktop or terminal, network configuration, and connectivity test screenshots.
-
-Do not put every command used, attack tutorials, or results from future detection labs here.
+<img width="768" height="393" alt="f1095bab-2530-4283-a51e-2c1a11a32e85" src="https://github.com/user-attachments/assets/ce28fef9-c8a8-4706-b828-61b72e6d68c8" />
