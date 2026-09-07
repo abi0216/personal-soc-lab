@@ -54,4 +54,7 @@ A SOC analyst does not directly observe every attacker action. The analyst inves
 
 ## Screenshots
 
-Add Sysmon installation/configuration evidence, Windows Event Viewer, and monitoring architecture screenshots.
+<img width="1262" height="937" alt="Screenshot 2026-09-07 211103" src="https://github.com/user-attachments/assets/2133059b-f17a-4236-a19b-f3332523bacf" />
+
+
+Sysmon installation/configuration evidence, Windows Event Viewer, and monitoring architecture screenshots.
