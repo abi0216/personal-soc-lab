@@ -80,3 +80,20 @@ Suspicious PowerShell Detection
 SPL Detection Engineering
 Incident Investigation
 MITRE ATT&CK Mapping
+
+## Lab Workflow
+
+```text
+Controlled Activity -> Endpoint Telemetry -> Log Collection -> SIEM Investigation
+```
+
+## Documentation Sections
+
+- [Lab setup](01-lab-setup/)
+- [Wazuh monitoring](02-wazuh-monitoring/)
+- [Sysmon analysis](03-sysmon-analysis/)
+- [Splunk monitoring](04-splunk-monitoring/)
+- [SOC detection labs](05-soc-detection-labs/)
+- [Incident investigations](06-incident-investigations/)
+
+Screenshots are stored under `screenshots/`. All activities are performed only against authorized lab systems.
